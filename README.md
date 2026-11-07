@@ -60,6 +60,17 @@ Zest can be further customized to accommodate individual farm workflows and busi
 
 ---
 
+## 🔐 Demo Login Credentials
+
+Use the following credentials to access the demo:
+
+| Field | Credentials |
+|---|---|
+| Email / User ID | `zestuser@gmail.com` |
+| Password | `Test@123` |
+
+---
+
 # 🚀 READY TO EXPLORE ZEST?
 
 ### Experience the live application.
