@@ -62,12 +62,12 @@ Zest can be further customized to accommodate individual farm workflows and busi
 
 ## 🔐 Demo Login Credentials
 
-Use the following credentials to access the demo:
+Use the following credentials to access the live demo.
 
-| Field | Credentials |
-|---|---|
-| Email / User ID | `zestuser@gmail.com` |
-| Password | `Test@123` |
+| Field | Credential | |
+|---|---|---|
+| Email | `zestuser@gmail.com` | <button onclick="navigator.clipboard.writeText('zestuser@gmail.com')">Copy</button> |
+| Password | `Test@123` | <button onclick="navigator.clipboard.writeText('Test@123')">Copy</button> |
 
 ---
 
